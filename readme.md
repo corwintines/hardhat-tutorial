@@ -1,0 +1,1 @@
+The most basic of token tutorials just to play around with hardhat a bit
