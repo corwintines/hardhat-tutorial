@@ -1,1 +1,1 @@
-The most basic of token tutorials just to play around with hardhat a bit. May come back to play around as I learn the ropes.
+The most basic of token tutorials just to play around with hardhat a bit.
